@@ -21,10 +21,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ![](./qr-code-result-screenshot.png)
 
+this screenshot is the result of the qr code component i built.
+
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://codecblvck.github.io/qr-code-component-main/
+- Live Site URL: [My live site URL](https://codecblvck.github.io/qr-code-component-main/
 )
 
 ## My process
